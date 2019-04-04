@@ -1,8 +1,8 @@
-# Demo of metajelo in actio
+# Demo of metajelo in action
 
 [metajelo](https://github.com/labordynamicsinstitute/metajelo) is being developed to have richer metadata on linked objects associated with articles, with just-enough information. 
 
-This mini website demonstrates how metajelo can work.
+This mini website demonstrates how metajelo can work. It is available at [https://labordynamicsinstitute.github.io/metajelo-demo/](https://labordynamicsinstitute.github.io/metajelo-demo/).
 
 [metajelo-mockup.html](metajelo-mockup.html) is a simple mockup.
 
